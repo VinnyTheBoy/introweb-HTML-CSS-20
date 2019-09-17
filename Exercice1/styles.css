@@ -1,12 +1,9 @@
 /* style pour toutes les pages des documents */
-html{
-
-}
-
 
 body{
     font-family:georgia, serif;
     font-weight: bold;
+    background:url("image/Montagne.jpg") no-repeat fixed top right;
 }
 h1 {
     color: blue;
