@@ -1,4 +1,41 @@
 /* style pour toutes les pages des documents */
+html{
+
+}
+
+
 body{
     font-family:georgia, serif;
+    font-weight: bold;
 }
+h1 {
+    color: blue;
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+}
+i{
+    text-transform: ;
+}
+em{
+    text-transform:;
+}
+h2{
+    color: red;
+}
+
+
+
+spann{
+    color: green;
+}
+
+
+span{
+    color: purple;
+}
+
+
+
+
