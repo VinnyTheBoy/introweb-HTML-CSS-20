@@ -8,16 +8,27 @@ h1{
     border: 5px solid olivedrab;
 }
 img{
-	/*grandeur de l'image hauteur et largeur */
+
+
     width: 150px; 
     height:150px;
 }
 #box {
+
+    margin-right: 20px;
+    Float: left;
     border-radius: 5px;  /* bordure arrondie */
     background-color: rgb(207,232,220);
 }
 #box2 {
+    margin-right: 20px;
+    Float: right;
     border-radius: 5px; /* bordure arrondie */
     background-color: rgb(207,232,220);
 }
-
+.left{
+    text-align: left;
+}
+.right{
+    text-align: right;
+}
