@@ -14,3 +14,55 @@ main {
 header p, nav p, aside p, section p, article p, footer p {
 	margin:0px;
 }
+
+header
+{
+	background-color: gray;
+	margin-bottom: 1%;
+}
+h1
+{
+	text-align: center;
+}
+
+nav
+{
+	background: #ff0059;
+	margin-bottom: 1%;
+}
+
+.container{
+	height: 420px;
+
+}
+aside
+{
+	float: left;
+	background-color: cadetblue;
+	width: 25%;
+    height: ;
+	margin-right: 5px;
+}
+
+section
+{	display: inline-block;
+	background-color: deepskyblue;
+    width: 74%;
+	height:420px;
+}
+
+article
+{
+	display: inline-block;
+	width: 45%;
+	background-color: yellow;
+	margin-left: 50px;
+}
+
+footer
+{
+    clear: both;
+	border-style: solid;
+	border-color: #ff0059;
+	margin-top: 5px;
+}
