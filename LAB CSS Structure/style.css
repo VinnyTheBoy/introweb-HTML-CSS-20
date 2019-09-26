@@ -40,7 +40,8 @@ aside
 	float: left;
 	background-color: cadetblue;
 	width: 25%;
-    height: ;
+	/* enlevé le 2px*/
+    height: 2px;
 	margin-right: 5px;
 }
 
