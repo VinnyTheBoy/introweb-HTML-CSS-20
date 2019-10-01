@@ -4,8 +4,6 @@ section {
   background-color: lightgrey;
 	display: flex;
 	flex-wrap: wrap;
-	flex-direction: column;
-	height: 50%;
 }
 .boite{
 	min-height: 75px;

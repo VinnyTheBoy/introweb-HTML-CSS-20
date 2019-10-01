@@ -4,26 +4,17 @@ section {
   background-color: lightgrey;
 	display: flex;
 	flex-wrap: wrap;
-	flex-direction: column;
-	height: 50%;
 }
 .boite{
+
 	min-height: 75px;
 	min-width: 75px;
-	flex-basis: 50%;
-
-}
-div{
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: center;
-	align-items: center;
 }
 .element1{ 
-	background-color: #1abc9c;
+	background-color: #1abc9c; 
 }
 .element2{ 
-	background-color: #3498db;
+	background-color: #3498db; 
 }
 .element3{
 	background-color: #9b59b6; 
